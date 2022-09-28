@@ -105,7 +105,7 @@
       </v-app>
     </v-flex>
     <v-flex md4>
-      <v-app :style="{background: $vuetify.theme.themes.dark.background}">
+      <v-app :style="{background: $vuetify.theme.themes.light.background}">
         <v-container>
           <v-row>
             <v-col cols="12" sm="12">
